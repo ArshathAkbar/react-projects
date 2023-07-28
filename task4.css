@@ -1,0 +1,21 @@
+.ben{
+    height: 450px;
+    float: left;
+}
+.ben1{
+    float:right;
+    height: 450px;
+}
+.ben2{
+    height: 450px;
+    float:right;
+}
+.ben3{
+    float:left;
+    height: 450px;
+}
+.vid{
+    margin-left: 17%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
